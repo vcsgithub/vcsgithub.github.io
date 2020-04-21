@@ -1,15 +1,20 @@
 1.  Python Basic 
         Introduction 
         Basic Syntax
-        Variables and Scoping
         Data Structures
+            Strings
+            Lists
+            Tuples
+            Dictionaries
         Operators 
-        Control Flow/Decision Making/Loops
+        Decision Making
+        Iterations/Loops
         
 2.  Functions
         Call syntax
         Parameter passing types
-        return types
+        Return types
+        Variable Scope
         Comprehension.
         Lambda, map, filter, reduce.
         
@@ -18,11 +23,12 @@
         Write your own module
         
 4.  Classes & objects
-        definition & object creation
-        inheritance
-        operator overloading
-        multiple inheritance
-        data abstraction & hiding
+        Encapsulation
+        Inheritance
+        Overloading
+        Multiple Inheritance
+        Constructors.
+        Data abstraction & hiding
         
 5.  File I/O
         Handle Text and Binary files
@@ -32,9 +38,9 @@
 6.  Assertions & Exceptions
         Creating Assertions
         Exception handling
+        User Defined Exceptions
 
 7.  Regular Expressions
-        Match
-        Search using metacharacters
+        Match and Search
         Greedy patterns
         Replace
