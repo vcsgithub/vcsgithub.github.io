@@ -1,0 +1,28 @@
+1.  Introduction to Unittest Module
+        Creation of Testcase framework 
+    Creation of Regression setup. 
+
+
+2.  Excel Interface
+        create excel
+        write into excel
+        read from excel
+        charting
+
+
+3.  SQL DB Access.
+        connect to database 
+        Database query
+        update into database
+
+
+4.  Data Analysis Modules
+        Numpy
+            Numpy Matrix operations.
+        Pandas
+            Internal datastructures
+            Dataframe Operations
+            Accessing and importing datasets for Data Analysis
+
+        Visualization
+            Matplotlib
