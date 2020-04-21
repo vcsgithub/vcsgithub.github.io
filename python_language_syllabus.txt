@@ -1,0 +1,40 @@
+1.  Python Basic 
+        Introduction 
+        Basic Syntax
+        Variables and Scoping
+        Data Structures
+        Operators 
+        Control Flow/Decision Making/Loops
+        
+2.  Functions
+        Call syntax
+        Parameter passing types
+        return types
+        Comprehension.
+        Lambda, map, filter, reduce.
+        
+3.  Concept of modules
+        Module Usage Flow
+        Write your own module
+        
+4.  Classes & objects
+        definition & object creation
+        inheritance
+        operator overloading
+        multiple inheritance
+        data abstraction & hiding
+        
+5.  File I/O
+        Handle Text and Binary files
+        Read, Write, Append
+        Seek and Tell
+
+6.  Assertions & Exceptions
+        Creating Assertions
+        Exception handling
+
+7.  Regular Expressions
+        Match
+        Search using metacharacters
+        Greedy patterns
+        Replace
