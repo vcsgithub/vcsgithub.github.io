@@ -1,7 +1,6 @@
-*Python for Data Science* (60 hours)
+*Python for Data Science* (58 hours)
 
-1.  Python Basic (8 hours)
-        Introduction 
+1.  Python Introduction (8 hours)
         Basic Syntax
         Data Structures
             Strings
@@ -42,7 +41,7 @@
         Exception handling
         User Defined Exceptions
 
-7.  Data Analysis Modules (20 hours)
+7.  Data Analysis Modules (18 hours)
         Numpy
             Numpy Matrix operations.
         Pandas
