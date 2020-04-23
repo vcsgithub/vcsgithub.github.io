@@ -1,52 +1,57 @@
-1.  Python Basic 
-        Introduction 
-        Basic Syntax
-        Data Structures
-            Strings
-            Lists
-            Tuples
-            Dictionaries
-        Operators 
-        Decision Making
-        Iterations/Loops
-        
-2.  Functions
-        Call syntax
-        Parameter passing types
-        Return types
-        Variable Scope
-        Comprehension.
-        Lambda, map, filter, reduce.
-        
-3.  Concept of modules
-        Module Usage Flow
-        Write your own module
-        
-4.  Classes & objects
-        Encapsulation
-        Inheritance
-        Overloading
-        Multiple Inheritance
-        Constructors.
-        Data abstraction & hiding
-        
-5.  File I/O
-        Handle Text and Binary files
-        Read, Write, Append
-        Seek and Tell
+*Python for Data Science* (60 hours)
 
-6.  Assertions & Exceptions
-        Creating Assertions
-        Exception handling
-        User Defined Exceptions
-        
-7.  Data Analysis Modules
-        Numpy
-            Numpy Matrix operations.
-        Pandas
-            Internal datastructures
-            Dataframe Operations
-            Accessing and importing datasets for Data Analysis
+Python Basic (8 hours)
+    Introduction 
+    Basic Syntax
+    Data Structures
+        Strings
+        Lists
+        Tuples
+    Dictionaries
+    Operators 
+    Decision Making
+    Iterations/Loops
 
-        Visualization
-            Matplotlib        
+Functions (6 hours)
+    Call syntax
+    Parameter passing types
+    Return types
+    Variable Scope
+    Comprehension.
+    Lambda, map, filter, reduce.
+
+Concept of modules (2 hours)
+    Module Usage Flow
+    Create your own module
+
+Classes & objects (8 hours)
+    Encapsulation
+    Inheritance
+    Overloading
+    Multiple Inheritance
+    Constructors.
+    Data abstraction & hiding
+
+File I/O (3 hours)
+    Handle Text and Binary files
+    Read, Write, Append
+    Seek and Tell
+
+Assertions & Exceptions (3 hours)
+    Creating Assertions
+    Exception handling
+    User Defined Exceptions
+
+Data Analysis Modules (20 hours)
+    Numpy
+        Numpy Matrix operations.
+    Pandas
+        Internal datastructures
+        Dataframe Operations
+        Accessing and importing datasets for Data Analysis
+        Reshaping of Data
+        Handling csv, json files
+    Visualization
+        Matplotlib, Seaborn   
+
+Assignments, Exams, Evaluation, Support (10 hours)   
