@@ -1,4 +1,4 @@
-*Python for Data Science* (58 hours)
+*Python for Data Science* (Online: 48+10=58 hours)
 
 1.  Python Introduction (8 hours)
         Basic Syntax
