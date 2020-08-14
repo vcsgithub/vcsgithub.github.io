@@ -1,0 +1,84 @@
+1)	Python Basic 
+a)	Introduction 
+b)	Basic Syntax
+c)	Data Structures
+i)		String
+ii)		Lists
+iii)	Tuple
+iv)	Dictionaries
+d)	Operators 
+e)	Decision Making
+f)	Iterations/Loops 
+
+2)	Functions
+a)	Call syntax
+b)	Parameter passing types
+c)	Return types
+d)	Variable Scope
+e)	Comprehension.
+f)	Lambda, map, filter, reduce. 
+
+3)	Classes & objects
+a)	Encapsulation
+b)	Inheritance
+c)	Overloading
+d)	Multiple Inheritance
+e)	Constructors.
+f)	Data abstraction & hiding 
+
+
+4)	Concept of modules
+a)	Module Usage Flow
+b)	Module Release. 
+c)	Create own module 
+
+5)	Regular Expressions
+a)	Match 
+b)	Search-metacharacters 
+c)	Greedy patterns
+d)	Replace
+e)	Grouping
+
+6)	File I/O
+a)	Handle Text and Binary files
+b)	Read, Write, Append
+c)	Seek and Tell 
+
+7)	Assertions & Exceptions
+a)	Creating Assertions
+b)	Exception handling
+c)	User Defined Exceptions 
+
+8)	Excel Interface
+a)	create 
+b)	Write 
+c)	read 
+d)	charting
+
+
+9)	SQL DB Access.
+a)	connection
+b)	Query
+c)	Update
+
+10)	Introduction to Unittest Module 
+a)	Creation of Testcase framework 
+b)	Creation of Regression setup. 
+
+11)	Data Analysis Modules
+a)	Numpy 
+i)	Numpy Matrix operations.
+b)	Pandas
+i)	Internal data-structures
+ii)	Dataframe Operations
+iii)	Importing Datasets
+iv)	Accessing Data Subsets 
+v)	Reshaping of Data
+c)	Visualization
+i)	Matplotlib 
+ii)	Seaborn 
+
+
+
+
+
