@@ -1,5 +1,6 @@
-Vol,Rev,Expn,Grp,EmpCnt,HQ
-CAB,131,263,105,Pub,1935,Che
-CCD,199,217,174,Pub,1443,Blr
-CHI,125,239,115,Pvt,154,NCR
-COP,192,221,165,Pub,1154,Che
+Vol,Rev,Exp,Catg,EmpCnt,HQ,Sector
+BHEL,899,917,674,Pub,1443,Mum,Retail
+HASC,925,839.8,615,Pvt,154,Mum,Sports
+BEML,900,874.4,676,Pub,1379,Kol,Retail
+ECIL,966,805,895,Pvt,119,Blr,Retail
+ADE,992,821,665,Pub,1154,Che,Auto
