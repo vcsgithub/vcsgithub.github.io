@@ -1,10 +1,10 @@
 Vol,Rev,Exp,Catg,EmpCnt,HQ
-c44,899,917,674,Pub,1443,Mum
-c55,925,839.8,615,Pvt,154,Mum
-c66,900,874.4,676,Pub,1379,Kol
-c11,931,863.5,605,Pub,1935,NCR
-c22,992,821,665,Pub,1154,Che
-c33,931,881.6,650,Gov,1361,Blr
-c77,966,805,895,Pvt,119,Blr
-c88,966,863.2,608,Pub,1656,Che
-c99,954,733,609,Gov,13023,NCR
+Bombay_Finance,c44,899,917,674,Pub,1443,Mum
+Bombay_Sporting,c55,925,839.8,615,Pvt,154,Mum
+Kolkata_FMCG,c66,900,874.4,676,Pub,1379,Kol
+NCR_Leagles,c11,931,863.5,605,Pub,1935,NCR
+Chennai_Shipping,c22,992,821,665,Pub,1154,Che
+Bangalore_Systems,c33,931,881.6,650,Gov,1361,Blr
+Bangalore_Breweries,c77,966,805,895,Pvt,119,Blr
+Chennai_Chemicals,c88,966,863.2,608,Pub,1656,Che
+Indi_Services, c99,954,733,609,Gov,13023,NCR
