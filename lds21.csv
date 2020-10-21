@@ -1,5 +1,5 @@
-company,HQ,Catg,empcnt
-infi_systems13,Blr,Pub,20000
-tree_consulting1,NCR,Pub,10000
-kernel_associates123,Mum,Pvt,5000
-vv_automobiles12,Blr,Pvt,30000
+company,stock_name,high,low  
+infi_systems13,INFS,1200,600
+kernel_associates123,KRAS,1100,800
+porto_shipping23,POSH,1200,300
+appo_automobiles3,APTP,2000,800
