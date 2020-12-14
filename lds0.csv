@@ -1,10 +1,10 @@
 Vol,Rev,Exp,Catg,EmpCnt,HQ
-Bombay_Finance,899,917,674,Pub,1443,Mum
+Kolkata_FMCG,900,874.4,676,Pub,1379,Kol
+NCR_Leagles,931,,605,,,NCR
 Bombay_Sporting,925,839.8,615,Pvt,154,Mum
-Kolkata_FMCG,900,,676,Pub,,Kol
-NCR_Leagles,931,863.5,605,Pub,1935,NCR
-Chennai_Shipping,992,821,665,Pub,1154,Che
-Bangalore_Systems,931,,650,Gov,1361,Blr
+Bombay_Finance,899,917,674,Pub,1443,Mum
+Bangalore_Systems,931,881.6,650,Gov,1361,Blr
+Chennai_Shipping,992,,665,,1154,Che
 Bangalore_Breweries,966,805,895,,119,Blr
 Chennai_Chemicals,966,863.2,608,Pub,1656,Che
 Indi_Services,954,733,609,Gov,13023,NCR
