@@ -1,5 +1,5 @@
-company,HQ,Catg,empcnt
-infi_systems13,Blr,Pub,20000
-tree_consulting1,NCR,Pub,10000
-kernel_associates123,Mum,Pvt,5000
-vv_automobiles12,Blr,Pvt,30000
+stock_name,HQ,empcnt
+NCR_Leagles,NCRL,NCR,10000
+Bangalore_Breweries,BREW,Blr,5000
+Bombay_Finance,BFIN,Mum,30000
+Bangalore_Systems,BSYS,Blr,20000
