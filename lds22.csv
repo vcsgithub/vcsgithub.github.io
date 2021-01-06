@@ -1,6 +1,5 @@
-company,vol,rev,exp,stock_ticker,HQ
-kernel_associates123,350,450,550,KRAS,Mum
-vv_automobiles12,450,550,500,VVAU,Blr
-porto_shipping23,550,650,700,POSH,Che
-time_makers2,400,300,200,HMTW,Kol
-charmi_studios,500,250,150,CSTD,HYD
+stock_name,HQ,vol
+Bangalore_Breweries,BREW,Blr,350
+Bombay_Finance,BFIN,Mum,450
+Chennai_Shipping,SHIP,Che,550
+Kolkata_FMCG,KFMC,Kol,500
