@@ -1,7 +1,7 @@
 Vol,Rev,Exp,Sector,EmpCnt,HQ,MNC,StockID
-Kolkata_FMCG,931,874.4,676,Pub,1379,Kol,1,KFMC
+Kolkata_FMCG,925,874.4,676,Pub,1379,Kol,1,KFMC
 NCR_Leagles,931,863.5,605,Pub,1935,NCR,0,NCRL
-Bombay_Sporting,925,839.8,615,Pvt,154,Mum,0,SPRT
+Bombay_Sporting,931,839.8,615,Pvt,154,Mum,0,SPRT
 Bombay_Finance,899,917,674,Pub,1443,Mum,0,BFIN
 Bangalore_Systems,900,881.6,650,Gov,1361,Blr,0,BSYS
 Chennai_Shipping,992,821,665,Pub,1154,Che,1,SHIP
