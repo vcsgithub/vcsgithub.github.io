@@ -1,0 +1,18 @@
+<data>
+    <team name="CSK">
+        <hq>Chennai</hq>
+        <pincode>600001</pincode>
+    </team>
+    <team name="RCB">
+        <hq>Bangalore</hq>
+        <pincode>560001</pincode>
+    </team>
+    <team name="SRH">
+        <hq>Hyderabad</hq>
+        <pincode>500001</pincode>
+    </team>
+    <team name="MI">
+        <hq>Mumbai</hq>
+        <pincode>400001</pincode>
+    </team>
+</data>
