@@ -1,6 +1,6 @@
 Vol,Rev,Exp,Sector,EmpCnt,HQ
-Kolkata_FMCG,900,874.4,676,Pub,1379,Kol
-NCR_Leagles,931,,605,,,NCR
+Kolkata_FMCG,900,874.4,676,Pub,,Kol
+NCR_Leagles,931,,605,,1935,NCR
 Bombay_Sporting,925,839.8,615,Pvt,154,Mum
 Bombay_Finance,899,917,674,Pub,1443,Mum
 Bangalore_Systems,931,881.6,650,Gov,1361,Blr
